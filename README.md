@@ -91,13 +91,13 @@ python scripts_method/cal_t.py                    # Calculate translation
 ```
 
 ### 1.5 Evaluation
-For evaluation, we use VSD/MSSD/MSPD implemented in the [BOP Toolkit](https://github.com/thodan/bop_toolkit).
+For evaluation, we use the BOP metrics (VSD, MSSD, and MSPD) as implemented in the [BOP Toolkit](https://github.com/thodan/bop_toolkit).
 ```
 cd CVAM-Pose
 git clone https://github.com/thodan/bop_toolkit.git
 ```
 
-To use the BOP Toolkit, change the code ```sys.path.append('/home/jianyu/CVAM-Pose/bop_toolkit/')``` in the script ```scripts/eva.py``` to your BOP Toolkit path, then evaluate the estimated poses:
+To use the BOP Toolkit, change the code ```sys.path.append('/home/jianyu/CVAM-Pose/bop_toolkit/')``` in the script ```scripts_method/eva.py``` to your BOP Toolkit path, then evaluate the estimated poses:
 ```
 python scripts_method/eva.py
 ```
