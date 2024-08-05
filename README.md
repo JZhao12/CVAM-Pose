@@ -1,5 +1,4 @@
-# CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation (BMVC 2024)
-
+# CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation <br> <span style="float: right"><sub><sup>BMVC 2024</sub></sup></span>
 ![pipeline_2](https://github.com/user-attachments/assets/70098cb6-19cb-4acf-bd73-cda20d53217b)
 
 Authors: [Jianyu Zhao](https://scholar.google.com/citations?user=b6qSMLwAAAAJ&hl=en), [Wei Quan](https://www.uclan.ac.uk/academics/wei-quan), [Bogdan J. Matuszewski](https://scholar.google.co.uk/citations?user=QlUO_oAAAAAJ&hl=en)
