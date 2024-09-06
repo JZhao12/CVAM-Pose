@@ -120,7 +120,7 @@ This work makes use of multiple existing code which are openly available at:
 
 ## 5. Additional information
 
-[Student Profile](https://www.uclan.ac.uk/student-profiles/jianyu-zhao)
+[Student Profile](https://www.uclan.ac.uk/articles/research/jianyu-zhao)
 
 [UCLan Computer Vision and Machine Learning (CVML) Group](https://www.uclan.ac.uk/research/activity/cvml)
 
