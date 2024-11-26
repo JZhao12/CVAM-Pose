@@ -3,7 +3,7 @@
 
 Authors: [Jianyu Zhao](https://scholar.google.com/citations?user=b6qSMLwAAAAJ&hl=en), [Wei Quan](https://www.uclan.ac.uk/academics/wei-quan), [Bogdan J. Matuszewski](https://scholar.google.co.uk/citations?user=QlUO_oAAAAAJ&hl=en)
 
-Paper link:
+Paper link: https://arxiv.org/abs/2410.09010
 
 If you find this work useful to your research, please consider citing:
 ```
