@@ -10,7 +10,10 @@ If you find this work useful to your research, please consider citing:
 @inproceedings{zhao2024cvam,
   title={CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation},
   author={Zhao, Jianyu and Quan, Wei and Matuszewski, Bogdan J},
-  booktitle={The 35th British Machine Vision Conference, 25th-28th November 2024, Glasgow, UK},
+  booktitle={The 35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK, November 25-28, 2024},
+  publisher={BMVA},
+  year={2024},
+  url={https://bmva-archive.org.uk/bmvc/2024/papers/Paper_967/paper.pdf}
 }
 ```
 
